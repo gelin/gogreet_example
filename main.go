@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(greet.GreetingFor("World"))
+	fmt.Println(greet.GreetingFor("Мир"))
 }
