@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gelin/gogreet"
 	"fmt"
+	"github.com/gelin/gogreet"
 )
 
 func main() {
